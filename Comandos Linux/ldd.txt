@@ -1,3 +1,2 @@
 ldd /bin/bash
 exibe todas as bibliotecas que o bash utiliza para funcionar
-teste
